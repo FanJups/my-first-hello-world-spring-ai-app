@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-ai-demo
+
+
+
+  ai:
+    openai:
+      api-key: ${OPENAI_KEY}
